@@ -1,4 +1,4 @@
-# Привет, меня зовут [Ваше Имя]! 👋
+# Hello, my name is Ivan! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/EvanKlokOff?label=Follow&style=social)](https://github.com/EvanKlokOff)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ZZaseckrecheno)
@@ -6,11 +6,11 @@
 
 
 ### 👨‍💻 Обо мне:
-- 🌱 Пишу код на **Python** 
-- 🎓 Учусь на **4 курсе** Матмех Урфу 
-- 🤝 Открыт к **сотрудничеству** в проектах и хакатонах
+- 🌱 Write code on **Python** 
+- 🎓 I am a **4th year student** at Urfu Mathmeh
+- 🤝 Open to **collaboration** in projects and hackathons
 
-### 🛠️ Мой стек технологий:
+### 🛠️ My technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
@@ -23,6 +23,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 📈 Моя статистика:
+### 📈 My statistic:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanKlokOff&show_icons=true&theme=radical)](https://github.com/EvanKlokOff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanKlokOff&layout=compact&theme=radical)](https://github.com/EvanKlokOff)
